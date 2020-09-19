@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS</string>
+    <string name="input_nama">Full Name</string>
+    <string name="input_age">Age</string>
+    <string name="input_address">Address</string>
+    <string name="button_save">Safe Data</string>
+</resources>
